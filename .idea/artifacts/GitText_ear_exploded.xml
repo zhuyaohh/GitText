@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="GitText:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/GitText_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GitText/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="GitText:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
